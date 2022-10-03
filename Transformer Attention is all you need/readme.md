@@ -14,3 +14,9 @@
 <a href='https://deeplearning.neuromatch.io/tutorials/W3D1_AttentionAndTransformers/student/W3D1_Tutorial1.html'>[neuromatch]Tutorial 1: Learn how to work with Transformers</a>
 
 <a href='https://www.youtube.com/watch?v=Yk1tV_cXMMU&list=PLetSlH8YjIfVzHuSXtG4jAC2zbEAErXWm&index=17'>[고려대 산업경영공학부 DSBA 연구실] 08-2:Transformer</a>
+
+<a href='https://gaussian37.github.io/dl-concept-transformer/'>Transformer 모델 (Attention is all you need) 김진솔</a>
+
+<a href='https://ratsgo.github.io/nlpbook/'>ratsgo's NLP book</a>
+
+<a href='https://wikidocs.net/31379'>wickidocs : Transformer </a>
