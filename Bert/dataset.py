@@ -4,8 +4,8 @@ from torchtext.vocab import vocab
 from collections import Counter
 import torch
 import numpy as np
-import pandas as pd
 import random
+import pandas as pd
 from tqdm import tqdm
 
 
@@ -291,8 +291,3 @@ class IMDBBertData(Dataset):
                 )
 
         return s, inverse_token_mask
-
-
-a = IMDBBertData("./data/IMDB Dataset.csv", should_include_text=True)
-
-a.vocab(["here", "is", "the", "example"])
